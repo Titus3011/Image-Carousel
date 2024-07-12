@@ -1,0 +1,23 @@
+{
+    "slides": [
+        {
+            "src":"https://picsum.photos/seed/picsum/600/500",
+            "alt":"Image 1 for corousal"
+        },
+
+        {
+            "src":"https://picsum.photos/600/500?grayscale",
+            "alt":"Image 2 for corousal"
+        },
+
+        {
+            "src":"https://picsum.photos/600/500/?blur",
+            "alt":"Image 3 for corousal"
+        },
+        
+        {
+            "src":"https://picsum.photos/600/500.jpg",
+            "alt":"Image 4 for corousal"
+        }
+    ]
+}
